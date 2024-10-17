@@ -114,10 +114,8 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 - [w2w][w2w]: Walk-to-work elevation on platforms
 
 [gfeed]: https://gist.github.com/ckunte.atom
-[gists]: https://gist.github.com/ckunte
 [LaTeX]: https://www.latex-project.org "Document preparation system"
 [pfeed]: https://github.com/ckunte.atom
-[projects]: https://github.com/ckunte
 [prompt]: https://gist.github.com/ckunte/5adb355dec294e369ce7d1508e84eed0 "Simple colorful bash prompt with git status"
 [SACS]: https://www.bentley.com/software/sacs-offshore-structure/ "Offshore Structural Analysis And Design Software"
 [sc]: https://gist.github.com/ckunte/ab1993fbba0a2c31e240c64382558dca "Turn uppercase words into smallcaps in Typst"
@@ -138,6 +136,8 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 - [gists]: [feed][gf], 
 - [projects]: [feed][pf]
 
+[gists]: https://gist.github.com/ckunte
+[projects]: https://github.com/ckunte
 [gf]: https://gist.github.com/ckunte.atom
 [pf]: https://github.com/ckunte.atom
 
