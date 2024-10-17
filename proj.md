@@ -10,7 +10,6 @@
 
 [STAAD]: https://www.bentley.com/software/staad/
 [Sublime Text]: https://www.sublimetext.com
-
 [csv2sacs]: https://github.com/ckunte/csv2sacs "Convert Metocean data into a SACS seastate input file"
 [fltr]: https://gist.github.com/ckunte/98fc79713b8d111b0aa6fec792b194b3 "Member end release conversion from STAAD to USFOS"
 [gendata]: https://gist.github.com/ckunte/2819cf28a565bb0163671d92cb26eb03 "Generate formatted model data from CSV file"
@@ -113,9 +112,7 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 - [usfos-on-linux][uol]: Get USFOS to run on linux ([script])
 - [w2w][w2w]: Walk-to-work elevation on platforms
 
-[gfeed]: https://gist.github.com/ckunte.atom
 [LaTeX]: https://www.latex-project.org "Document preparation system"
-[pfeed]: https://github.com/ckunte.atom
 [prompt]: https://gist.github.com/ckunte/5adb355dec294e369ce7d1508e84eed0 "Simple colorful bash prompt with git status"
 [SACS]: https://www.bentley.com/software/sacs-offshore-structure/ "Offshore Structural Analysis And Design Software"
 [sc]: https://gist.github.com/ckunte/ab1993fbba0a2c31e240c64382558dca "Turn uppercase words into smallcaps in Typst"
@@ -133,11 +130,11 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 
 ## RSS feeds
 
-- [gists]: [feed][gf], 
-- [projects]: [feed][pf]
+- [gists][]: [feed][gfeed] 
+- [projects][]: [feed][pfeed]
 
 [gists]: https://gist.github.com/ckunte
 [projects]: https://github.com/ckunte
-[gf]: https://gist.github.com/ckunte.atom
-[pf]: https://github.com/ckunte.atom
+[gfeed]: https://gist.github.com/ckunte.atom
+[pfeed]: https://github.com/ckunte.atom
 
