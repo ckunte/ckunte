@@ -19,12 +19,10 @@
 ## Publishing
 
 - [chisel][ch]: A static site generator in [python]
-- [git workflow][gw]: [git] version control workflow
 - [tce][tce]: Sneha's thesis on tourism into a mini-book project
 - [m-one][m1]: Turning my collection of notes into a monograph
 
 [git]: https://git-scm.com
-[gw]: /notes/git-workflow
 [python]: https://www.python.org
 [ch]: https://github.com/ckunte/chisel/tree/ck "A simple python static blog generation utility"
 [tce]: https://github.com/ckunte/tce "Sneha's thesis into a mini-book project"
@@ -58,8 +56,8 @@
 
 ## Typesetting
 
-- [Build from LaTeX](/notes/build-latex): Ways to compile
-- [Build from Typst](/notes/build-typst): Ways to compile
+- [Build from LaTeX][blx]: Ways to compile
+- [Build from Typst][btt]: Ways to compile
 - [latex-snippets-vim][lsv]: LaTeX snippets for Vim and [Neovim]
 - [templates][tmpl]: For notes, letters, etc. (see also [wiki][w])
 - [typst-snippets-vim][tsv]: Typst snippets for Vim and Neovim
@@ -67,6 +65,8 @@
 ```
 alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 ```
+[blx]: https://gist.github.com/ckunte/80ea9b0ba4905d1e52bc3fd0b21daa33
+[btt]: https://gist.github.com/ckunte/6f7a1e8d3a3053d92c70c6b9ea5138ef
 [Neovim]: https://neovim.io
 [lsv]: https://github.com/ckunte/latex-snippets-vim "LaTeX UltiSnips snippets for Vim and Neovim."
 [tmpl]: https://github.com/ckunte/templates "LaTeX templates (with styles) for notes, letters, forms."
@@ -86,7 +86,7 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 [mk]: https://github.com/ckunte/mackeyboard "Mac Keyboard to Windows Key Mappings"
 [ry]: https://gist.github.com/ckunte/047cd68684634fba74fcbd0888e966b1 "Setting Raspberry Pi Desktop for U2F with YubiKey"
 [wsl]: https://gist.github.com/ckunte/eef5df56dc94941655e168575bda247b "Access linux environment from within Windows (via Windows Subsystem for Linux)"
-[br]: /notes/airprint "Set up Brother HL-L2321D as a network-enabled AirPrint printer"
+[br]: https://gist.github.com/ckunte/fa1ff885a09d71f3d2cba31c9f8bd237 "Set up Brother HL-L2321D as a network-enabled AirPrint printer"
 
 ## Viewgraphs
 - [git-talk][gt]: Version control for engineers
@@ -129,7 +129,6 @@ alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
 [zsh]: https://gist.github.com/ckunte/0d3f0a8d18504f769adf3badde12abf4 "Setting zsh as default shell on Windows + Cygwin"
 
 ## RSS feeds
-
 - [gists][]: [feed][gfeed] 
 - [projects][]: [feed][pfeed]
 
