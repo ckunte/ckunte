@@ -1,16 +1,13 @@
 ## Me
-- Offshore structures engineer
+- Offshore structures engineer (professional [profile][l], [resum&eacute;][r])
 - Associate member, The Royal Institution of Naval Architects
 - Not on social media
+- Personal [projects][p]
 
 ## Monograph
 - [m-one][m] &ndash; from my experience in engineering offshore structures
 
-## Links
-- Professional [profile][l] and [resum&eacute;][r]
-- Personal [projects][p]
-
-[m]: https://github.com/ckunte/m-one/releases/
 [l]: https://www.linkedin.com/in/ckunte
+[m]: https://github.com/ckunte/m-one/releases/
 [p]: https://github.com/ckunte/ckunte/blob/master/proj.md
 [r]: https://github.com/ckunte/resume/releases
