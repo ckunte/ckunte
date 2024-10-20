@@ -1,8 +1,7 @@
 ## Me
 - Offshore structures engineer (professional [profile][l], [resum&eacute;][r])
 - Associate member, The Royal Institution of Naval Architects
-- Personal [projects][p]
-- My [setup][s]
+- Personal [projects][p], and [setup][s]
 
 ## Monograph
 - [m-one][m] &ndash; from my experience in engineering offshore structures

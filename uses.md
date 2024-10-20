@@ -1,18 +1,18 @@
-# Uses
+# uses
 _2024 edition_
 
-## Hardware
+## hardware
 
 - BenQ GW2283
-- Lamy Safari with M nib
-- Logitech M170 mouse
+- Lamy Safari (M nib)
+- Logitech M170
 - MagicForce 49 key mechanical
 - Moleskine pocket
 - [Raspberry Pi 5][pi] &ndash; my daily driver
 
 [pi]: https://www.raspberrypi.com/products/raspberry-pi-5/
 
-## Software
+## software
 
 - [Raspberry Pi OS Desktop][os] + bundled software
 - anacron &ndash; run commands periodically
@@ -68,7 +68,7 @@ _2024 edition_
 [uv]: https://docs.astral.sh/uv/
 [vim-plug]: https://github.com/junegunn/vim-plug
 
-### Neovim plug-ins
+### neovim plug-ins
 
 - [auto-pairs] &ndash; insert brackets, parens, quotes in pair
 - [latex-snippets-vim] &ndash; LaTeX snippets
