@@ -12,6 +12,7 @@ _2024 edition_
 - [Raspberry Pi OS Desktop][os] + bundled software
 - anacron &ndash; run commands periodically
 - [bat] &ndash; a cat(1) clone
+- [bleachbit] &ndash; clean system and free disk space
 - chisel &ndash; static site generator
 - [detox] &ndash; tames problematic filenames
 - [entr] &ndash; to run arbitrary commands when files change
@@ -48,9 +49,11 @@ _2024 edition_
 - [ripgrep] &ndash; recursive search tool
 - [rsync] &ndash; utility for incremental file transfer
 - [typst] &ndash; modern typesetting system
+- [zopflipng] &ndash; lossless PNG image compression
 
 [auto-pairs]: https://github.com/jiangmiao/auto-pairs
 [bat]: https://github.com/sharkdp/bat
+[bleachbit]: https://www.bleachbit.org/
 [detox]: https://github.com/dharple/detox
 [entr]: https://github.com/eradman/entr
 [Evince]: https://wiki.gnome.org/Apps/Evince
@@ -81,4 +84,5 @@ _2024 edition_
 [vim-plug]: https://github.com/junegunn/vim-plug
 [vim-sensible]: https://github.com/tpope/vim-sensible
 [vim-surround]: https://github.com/tpope/vim-surround
+[zopflipng]: https://github.com/google/zopfli
 
