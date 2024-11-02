@@ -62,11 +62,9 @@
 - [templates][tmpl]: For notes, letters, etc. (see also [wiki][w])
 - [typst-snippets-vim][tsv]: Typst snippets for Vim and Neovim
 - Alias `ctd.py` for running as `tc <filename>.typ`:
-
     ```sh
     alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
     ```
-
 [blx]: https://gist.github.com/ckunte/80ea9b0ba4905d1e52bc3fd0b21daa33
 [btt]: https://gist.github.com/ckunte/6f7a1e8d3a3053d92c70c6b9ea5138ef
 [Neovim]: https://neovim.io
