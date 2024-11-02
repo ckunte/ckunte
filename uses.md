@@ -13,10 +13,11 @@ _2024 edition_
 - anacron &ndash; run commands periodically
 - [bat] &ndash; a cat(1) clone
 - [bleachbit] &ndash; clean system and free disk space
-- chisel &ndash; static site generator
+- [chisel] &ndash; static site generator
 - [detox] &ndash; tames problematic filenames
 - [entr] &ndash; to run arbitrary commands when files change
 - [fd] &ndash; a simple, fast, user-friendly alternative to find
+- [fish] &ndash; a smart and user-friendly command line shell
 - [fzf] &ndash; a command line fuzzy finder
 - [gimp] &ndash; GNU image manipulation program
 - [git] &ndash; distributed version control system
@@ -54,10 +55,12 @@ _2024 edition_
 [auto-pairs]: https://github.com/jiangmiao/auto-pairs
 [bat]: https://github.com/sharkdp/bat
 [bleachbit]: https://www.bleachbit.org/
+[chisel]: https://github.com/ckunte/chisel
 [detox]: https://github.com/dharple/detox
 [entr]: https://github.com/eradman/entr
 [Evince]: https://wiki.gnome.org/Apps/Evince
 [fd]: https://github.com/sharkdp/fd
+[fish]: https://fishshell.com
 [fzf]: https://github.com/junegunn/fzf
 [gimp]: https://www.gimp.org
 [git]: https://git-scm.com/
