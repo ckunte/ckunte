@@ -58,6 +58,7 @@
 
 - [Build from LaTeX][blx]: Ways to compile
 - [Build from Typst][btt]: Ways to compile
+- [Sublime Text + Typst][stt]: Setup for Windows
 - [latex-snippets-vim][lsv]: LaTeX snippets for Vim and [Neovim]
 - [templates][tmpl]: For notes, letters, etc. (see also [wiki][w])
 - [typst-snippets-vim][tsv]: Typst snippets for Vim and Neovim
@@ -65,6 +66,7 @@
     ```sh
     alias tc='_tc() { python3 /path-to/ctd.py -f $1 ;}; _tc'
     ```
+[stt]: https://gist.github.com/ckunte/1280d7228068b9226286c8d8d68bdd5d
 [blx]: https://gist.github.com/ckunte/80ea9b0ba4905d1e52bc3fd0b21daa33
 [btt]: https://gist.github.com/ckunte/6f7a1e8d3a3053d92c70c6b9ea5138ef
 [Neovim]: https://neovim.io
