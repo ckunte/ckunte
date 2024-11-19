@@ -50,7 +50,7 @@
 [Vim]: https://www.vim.org
 [abs]: https://gist.github.com/ckunte/4700941 "Autopair underscores and backticks in Sublime Text"
 [mkv]: https://gist.github.com/ckunte/80a9ba208b58a5b1aa8f122d602a55f4 "Compiling Vim from source with python3 interpreter enabled"
-[sds]: /notes/dsst "Get date stamp (in Y-m-d H:M format) in Sublime Text from a shortcut (ctrl+shift+d)"
+[sds]: https://gist.github.com/ckunte/31500c17452b0fd8c55bc9460bd9cc92 "Get date stamp (in Y-m-d H:M format) in Sublime Text from a shortcut (ctrl+shift+d)"
 [hkp]: https://github.com/ckunte/hkp "A collection of scripts to manage files, folders, set permissions, prune empty folders, combine/compress pdf files, etc."
 [w2p]: https://gist.github.com/ckunte/994a0894575555f27dda2b6de9239ece "Batch convert Word files to pdf files"
 
