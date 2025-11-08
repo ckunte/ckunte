@@ -9,7 +9,6 @@
 - [m-one][m] &ndash; from my experience in engineering offshore structures
 
 [l]: https://www.linkedin.com/in/ckunte
-[m]: https://github.com/ckunte/m-one/releases/
-[p]: https://github.com/ckunte/ckunte/blob/master/proj.md
-[r]: https://github.com/ckunte/resume/releases
-[s]: https://github.com/ckunte/ckunte/blob/master/uses.md
+[p]: https://ckunte.net/#proj
+[s]: https://ckunte.net/2024/essentials
+[m]: https://github.com/ckunte/m-one/releases
