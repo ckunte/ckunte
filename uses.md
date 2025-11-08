@@ -43,19 +43,20 @@ _2024 edition_
   - python3-matplotlib &ndash; plotting library
   - python3-numpy &ndash; numerical computing library
   - python3-pandas &ndash; data analysis library
+  - [uv] &mdash; a fast python package and project manager
 - [rename] &ndash; perl rename script
 - [ripgrep] &ndash; recursive search tool
 - [rsync] &ndash; utility for incremental file transfer
 - [typst] &ndash; modern typesetting system
 - [zopflipng] &ndash; lossless PNG image compression
 
+[Evince]: https://wiki.gnome.org/Apps/Evince
 [auto-pairs]: https://github.com/jiangmiao/auto-pairs
 [bat]: https://github.com/sharkdp/bat
 [bleachbit]: https://www.bleachbit.org/
 [chisel]: https://github.com/ckunte/chisel
 [detox]: https://github.com/dharple/detox
 [entr]: https://github.com/eradman/entr
-[Evince]: https://wiki.gnome.org/Apps/Evince
 [fd]: https://github.com/sharkdp/fd
 [fish]: https://fishshell.com
 [fzf]: https://github.com/junegunn/fzf
@@ -77,9 +78,9 @@ _2024 edition_
 [typst.vim]: https://github.com/kaarmu/typst.vim
 [typst]: https://typst.app/
 [ultisnips]: https://github.com/SirVer/ultisnips
+[uv]: https://github.com/astral-sh/uv
 [vim-monokai-tasty]: https://github.com/patstockwell/vim-monokai-tasty
 [vim-plug]: https://github.com/junegunn/vim-plug
 [vim-sensible]: https://github.com/tpope/vim-sensible
 [vim-surround]: https://github.com/tpope/vim-surround
 [zopflipng]: https://github.com/google/zopfli
-
