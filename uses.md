@@ -15,6 +15,7 @@ _2024 edition_
 - [bleachbit] &ndash; clean system and free disk space
 - [chisel] &ndash; static site generator
 - [detox] &ndash; tames problematic filenames
+- [dust] &ndash; A more intuitive version of du in rust
 - [entr] &ndash; to run arbitrary commands when files change
 - [fd] &ndash; a simple, fast, user-friendly alternative to find
 - [fish] &ndash; a smart and user-friendly command line shell
@@ -37,6 +38,7 @@ _2024 edition_
   - [vim-sensible] &ndash; sensible defaults
   - [vim-surround] &ndash; add surroundings in pairs
 - nginx &ndash; http web server
+- [pngquant] &ndash; lossy PNG image compression
 - [python] &ndash; programming language
   - python3-jinja2 &ndash; designer friendly templating language
   - python3-markdown &ndash; simple markup language
@@ -48,15 +50,16 @@ _2024 edition_
 - [ripgrep] &ndash; recursive search tool
 - [rsync] &ndash; utility for incremental file transfer
 - [typst] &ndash; modern typesetting system
-- [zopflipng] &ndash; lossless PNG image compression
+- [zellij] &ndash; terminal workspace
 
-[Evince]: https://wiki.gnome.org/Apps/Evince
 [auto-pairs]: https://github.com/jiangmiao/auto-pairs
 [bat]: https://github.com/sharkdp/bat
 [bleachbit]: https://www.bleachbit.org/
 [chisel]: https://github.com/ckunte/chisel
 [detox]: https://github.com/dharple/detox
+[dust]: https://github.com/bootandy/dust
 [entr]: https://github.com/eradman/entr
+[Evince]: https://wiki.gnome.org/Apps/Evince
 [fd]: https://github.com/sharkdp/fd
 [fish]: https://fishshell.com
 [fzf]: https://github.com/junegunn/fzf
@@ -70,6 +73,7 @@ _2024 edition_
 [mtm]: https://github.com/deadpixi/mtm
 [neovim]: https://neovim.io/
 [os]: https://www.raspberrypi.com/software/
+[pngquant]: https://pngquant.org/
 [python]: https://www.python.org/
 [rename]: https://github.com/ap/rename
 [ripgrep]: https://github.com/BurntSushi/ripgrep
@@ -83,4 +87,4 @@ _2024 edition_
 [vim-plug]: https://github.com/junegunn/vim-plug
 [vim-sensible]: https://github.com/tpope/vim-sensible
 [vim-surround]: https://github.com/tpope/vim-surround
-[zopflipng]: https://github.com/google/zopfli
+[zellij]: https://zellij.dev/
