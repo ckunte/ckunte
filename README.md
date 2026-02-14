@@ -2,7 +2,7 @@
 
 - Offshore structures engineer (professional [profile][l])
 - Associate member, The Royal Institution of Naval Architects
-- Personal [projects][p], and [setup][s]
+- Personal [projects][p]
 
 ## Monograph
 
@@ -10,5 +10,4 @@
 
 [l]: https://www.linkedin.com/in/ckunte
 [p]: https://ckunte.net/#proj
-[s]: https://ckunte.net/2024/essentials
 [m]: https://github.com/ckunte/m-one/releases
